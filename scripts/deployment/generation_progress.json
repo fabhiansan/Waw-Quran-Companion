@@ -1,0 +1,32 @@
+{
+  "last_completed_id": 571,
+  "total_generated": 643,
+  "errors": [
+    {
+      "ayah_id": 15,
+      "surah_ayah": "38:4",
+      "error": "[Errno 32] Broken pipe",
+      "timestamp": "2025-12-31T10:45:37.098774"
+    },
+    {
+      "ayah_id": 16,
+      "surah_ayah": "38:5",
+      "error": "[Errno 32] Broken pipe",
+      "timestamp": "2025-12-31T10:45:45.113381"
+    },
+    {
+      "ayah_id": 17,
+      "surah_ayah": "38:6",
+      "error": "[Errno 32] Broken pipe",
+      "timestamp": "2025-12-31T10:45:53.127065"
+    },
+    {
+      "ayah_id": 18,
+      "surah_ayah": "37:1",
+      "error": "[Errno 32] Broken pipe",
+      "timestamp": "2025-12-31T10:46:01.136777"
+    }
+  ],
+  "started_at": "2025-12-31T09:41:39.103139",
+  "updated_at": "2025-12-31T15:38:14.120070"
+}
